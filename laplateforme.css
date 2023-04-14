@@ -1,0 +1,183 @@
+body
+{
+    background-image: url(images/binaire.jpg);
+    background-size: 107%;
+    background : url(images/binaire.jpg) 50% 50% fixed no-repeat;
+}
+
+p {
+
+    font-family: 'lobster'; 
+
+}
+
+.haut {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bordure {
+    text-align: center;
+}
+
+a {
+    display: block;
+}
+
+.milieu
+{
+    display: flex;
+    justify-content: space-between; 
+    
+}
+
+.text1 
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.texte2 
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.titre 
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header 
+{
+    min-height: 100px;
+    width: 100%; 
+    position: relative;
+}
+
+a 
+{
+    display: inline-flex;
+    padding: 15px;
+}
+
+.video 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.fin 
+{
+    background-color: lightblue;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+
+}
+
+.temoigne {
+
+    text-align: center;
+
+}
+
+.Accélère {
+
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+.presentation1 {
+
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+
+}
+
+.presentation2 {
+
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+
+}
+
+.presentation3 {
+
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.presentation4 {
+
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.presentation5 {
+
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.presentation6 {
+
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.qualio {
+
+    width: 200px;
+    position: relative;
+
+}
+
+.april {
+
+    width: 200px;
+    position: relative;
+}
+
+.afc {
+
+    width: 200px;
+    position: relative;
+}
+
+
+.handicap {
+    width: 200px;
+    position: relative;
+
+}
+
+.videoo {
+
+    display: flex;
+    justify-content: space-around;
+    
+
+}
